@@ -126,4 +126,4 @@ publish-url = "https://pypi.python.org/pypi"
 
 name = "testpypi"
 url = "https://test.pypi.org/simple/"
-publish-url = "https://upload.pypi.org/legacy/"
+publish-url = "https://test.pypi.org/legacy/"
